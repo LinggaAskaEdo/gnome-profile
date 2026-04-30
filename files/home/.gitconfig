@@ -1,0 +1,7 @@
+[user]
+	email = lemp.otis@gmail.com
+	name = Lingga Edo
+[init]
+	defaultBranch = master
+[credential]
+	helper = cache
