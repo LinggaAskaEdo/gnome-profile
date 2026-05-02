@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T09:32:17.609Z",
+  "timestamp": "2026-05-02T09:33:06.075Z",
   "gsettings": {
     "org.gnome.desktop.interface": {
       "gtk-color-palette": "'black:white:gray50:red:purple:blue:light blue:green:yellow:orange:lavender:brown:goldenrod4:dodger blue:pink:light green:gray10:gray30:gray75:gray90'",
@@ -49,7 +49,7 @@
       "locate-pointer": "false"
     },
     "org.gnome.desktop.wm.preferences": {
-      "theme": "'Adwaita'",
+      "theme": "'Squared'",
       "focus-new-windows": "'smart'",
       "raise-on-click": "true",
       "num-workspaces": "1",
